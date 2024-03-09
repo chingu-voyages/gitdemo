@@ -15,4 +15,4 @@ Here's a simple example of how to create a graph in a Markdown file
 Commit messages are important because they are so useful when resolving issues 
 that may come up after the PR is merged.
 
-You should never update files directly in GitHub. Doing this greatly increases the risk of a merge conflict!!!!!!!!!
+We removed a line here in hopes of creating the **DREADED** merge conflict!
